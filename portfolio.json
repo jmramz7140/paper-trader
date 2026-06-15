@@ -1,0 +1,56 @@
+{
+  "starting_capital": 100.00,
+  "start_date": "2026-06-14",
+  "benchmark_ticker": "NVDA",
+  "buys": [
+    {
+      "ticker": "NVDA",
+      "shares": 0.1218,
+      "avg_cost": 205.19,
+      "buy_date": "2026-06-14",
+      "thesis": "Core AI position: 85% revenue growth, reasonable 31 P/E for the growth, undisputed AI compute leader. Down slightly today offers a fair entry."
+    },
+    {
+      "ticker": "GOOGL",
+      "shares": 0.05,
+      "avg_cost": 359.68,
+      "buy_date": "2026-06-14",
+      "thesis": "Best risk/reward among mega-cap AI: 27 P/E with 22% revenue growth, strong Gemini/TPU story, slight pullback today."
+    },
+    {
+      "ticker": "META",
+      "shares": 0.0265,
+      "avg_cost": 566.98,
+      "buy_date": "2026-06-14",
+      "thesis": "Cheapest mega-cap AI play at 20.6 P/E with 33% revenue growth. Down 1% today on internal noise is a buying opportunity."
+    },
+    {
+      "ticker": "AVGO",
+      "shares": 0.0393,
+      "avg_cost": 382.07,
+      "buy_date": "2026-06-14",
+      "thesis": "Custom AI silicon leader with 48% revenue growth and a fresh $35B AI infra platform deal. Slight dip today is attractive."
+    },
+    {
+      "ticker": "CRWV",
+      "shares": 0.1193,
+      "avg_cost": 100.55,
+      "buy_date": "2026-06-14",
+      "thesis": "Pure-play AI cloud with 111% revenue growth, just deployed NVIDIA Vera Rubin NVL72 first at rack scale. Speculative but high asymmetric upside."
+    },
+    {
+      "ticker": "PLTR",
+      "shares": 0.0781,
+      "avg_cost": 127.99,
+      "buy_date": "2026-06-14",
+      "thesis": "85% revenue growth, down 2.6% today offers entry into a leading AI software name with Army Innovation Corps tailwinds. Smaller size due to high 142 P/E."
+    },
+    {
+      "ticker": "AMZN",
+      "shares": 0.021,
+      "avg_cost": 238.55,
+      "buy_date": "2026-06-14",
+      "thesis": "Diversified AI/cloud exposure via AWS at a reasonable 31.6 P/E. Down 1.5% today on Anthropic news provides a discount."
+    }
+  ]
+}
